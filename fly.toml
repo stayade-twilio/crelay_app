@@ -1,4 +1,4 @@
-app = "your-app-name"  # Change this once Fly assigns your
+app = "crelay-app"  # Change this once Fly assigns your
 
 [env]
   PORT = "8080"
